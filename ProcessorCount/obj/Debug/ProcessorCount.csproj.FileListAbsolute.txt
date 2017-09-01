@@ -1,0 +1,18 @@
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\bin\Debug\ProcessorCount.exe.config
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\bin\Debug\ProcessorCount.exe
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\bin\Debug\ProcessorCount.pdb
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.csprojResolveAssemblyReference.cache
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.SysFormInfo.resources
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.Properties.Resources.resources
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.csproj.GenerateResource.Cache
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.exe
+c:\users\sergeychi\documents\visual studio 2012\Projects\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.pdb
+G:\C_Sharp\ProcessorCount\ProcessorCount\bin\Debug\ProcessorCount.exe.config
+G:\C_Sharp\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.exe
+G:\C_Sharp\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.pdb
+G:\C_Sharp\ProcessorCount\ProcessorCount\bin\Debug\ProcessorCount.exe
+G:\C_Sharp\ProcessorCount\ProcessorCount\bin\Debug\ProcessorCount.pdb
+G:\C_Sharp\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.csprojResolveAssemblyReference.cache
+G:\C_Sharp\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.SysFormInfo.resources
+G:\C_Sharp\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.Properties.Resources.resources
+G:\C_Sharp\ProcessorCount\ProcessorCount\obj\Debug\ProcessorCount.csproj.GenerateResource.Cache
